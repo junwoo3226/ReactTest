@@ -1,0 +1,15 @@
+.nav {
+    padding: 0.5rem 1rem;
+    background-color: blueviolet;
+    margin-bottom: 30px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav li {
+    margin-right: 1rem;
+    color: #fff;
+}
